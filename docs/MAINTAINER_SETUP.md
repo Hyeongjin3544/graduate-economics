@@ -2,8 +2,8 @@
 
 ## 확정된 공개 구성
 
-- 저장소: https://github.com/exclusiveor0-byte/graduate-economics
-- 읽기 주소: https://exclusiveor0-byte.github.io/graduate-economics/
+- 저장소: https://github.com/Hyeongjin3544/graduate-economics
+- 읽기 주소: https://hyeongjin3544.github.io/graduate-economics/
 - 원문과 읽기 사이트를 모두 공개하는 구성입니다.
 - 수정은 Section별 PR로 검토합니다. 일반 기여자는 터미널 Git을 사용하지 않아도 됩니다.
 
